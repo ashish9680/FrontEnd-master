@@ -154,7 +154,7 @@ This is an example of how to list things you need to use the software and how to
 ### fetchPoints
 1. EndPoint
     ```
-   http://localhost:1337/api/fetchPoints/?userId=1
+   http://localhost:1337/
    ```
 2. http Request Type
    ```
@@ -186,9 +186,9 @@ This is an example of how to list things you need to use the software and how to
    ```
 
 ## Contact
-   1. Name - Charan
-   2. email - charanhm5991@gmail.com
-   3. Project Link: [https://github.com/charan-ui/reward.git](https://github.com/charan-ui/reward.git)
+   1. Name - Ashish Chaurasiya
+   2. email - ashish.chaurasiya9999@gmail.com
+
 
 
 <!-- ACKNOWLEDGEMENTS -->
